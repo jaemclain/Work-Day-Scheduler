@@ -1,1 +1,2 @@
 # Work-Day-Scheduler
+This application is to be used as a daily schedule. The current date is displayed on the top of the page upon loading. Text can then be added into each hourly time slot and saved into local storage by clicking the green "disc" on the right of the input text box.
